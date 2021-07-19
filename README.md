@@ -5,7 +5,7 @@ This Repository contains all of the notes taken by [Jonathan Choi](https://githu
 ## Table of Contents
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
-    * WhatShouldIDoforLunchTips.md
+    * What_Should_I_Do_for_Lunch_Tips.md
     ### Tips
 
 Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) in the node REPL, which you can launch using the `node` command in Vagrant.
