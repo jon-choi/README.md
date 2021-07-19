@@ -1,11 +1,11 @@
 # Jonathan Choi's Notes
 ## Summary
-This Repository contains all of the notes taken by [Jonathan Choi](https://github.com/jon-choi/README.md) for the Lighthouse Labs Web DEvelopment Bootcamp. 
+This Repository contains all of the notes taken by [Jonathan Choi](https://github.com/jon-choi/README.md) for the [Lighthouse Labs](https://www.lighthouselabs.ca/en) Web Development Bootcamp. 
 
 ## Table of Contents
 * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
-    * What_Should_I_Do_for_Lunch_Tips.md
+  * [Day 1](/Week_1/Day_1/What_Should_I_Do_for_Lunch_Tips.md)
+
     ### Tips
 
 Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) in the node REPL, which you can launch using the `node` command in Vagrant.
